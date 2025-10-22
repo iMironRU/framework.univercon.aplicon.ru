@@ -36,6 +36,10 @@ repo_url: https://github.com/iMironRU/framework.univercon.aplicon.ru
 repo_name: iMironRU/framework.univercon.aplicon.ru
 edit_uri: edit/main/docs/
 
+# ИСКЛЮЧАЕМ README.md ИЗ СБОРКИ
+exclude_docs: |
+  README.md
+
 extra_javascript:
   - javascripts/glossary-data.js
   - javascripts/tooltips.js
