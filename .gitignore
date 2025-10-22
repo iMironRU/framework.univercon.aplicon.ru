@@ -5,3 +5,6 @@ site/
 #папка кеша
 .cache/
 .DS_Store
+# macOS system files
+.DS_Store
+**/.DS_Store
