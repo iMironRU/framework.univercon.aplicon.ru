@@ -32,8 +32,8 @@ theme:
     - content.code.copy
     - content.action.edit
 
-repo_url: https://github.com/iMironRU/my-awesome-docs
-repo_name: iMironRU/my-awesome-docs
+repo_url: https://github.com/iMironRU/framework.univercon.aplicon.ru
+repo_name: iMironRU/framework.univercon.aplicon.ru
 edit_uri: edit/main/docs/
 
 extra_javascript:
@@ -47,7 +47,7 @@ extra_css:
 plugins:  
   - search
   - git-committers:
-      repository: iMironRU/my-awesome-docs
+      repository: iMironRU/framework.univercon.aplicon.ru
       branch: main
       token: !ENV ${SECRET_KEY}
   - git-revision-date-localized:
@@ -57,7 +57,7 @@ plugins:
 extra:
   footer:
     - Секция 1:
-      - Copyright © 2022 - 2025 aplicon.ru
+      - Copyright © 2022 - 2025 https://framework.aplicon.ru
     - Секция 2:
       - Документация:
       - Начало работы - /getting-started/
