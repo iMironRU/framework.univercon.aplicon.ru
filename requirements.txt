@@ -1,0 +1,2 @@
+mkdocs>=1.4.0
+mkdocs-git-committers-plugin-2>=2.0.0
