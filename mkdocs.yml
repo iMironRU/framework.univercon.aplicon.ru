@@ -1,5 +1,12 @@
 site_name: Универкон - Система управления образовательной организацией
 
+dev_addr: 127.0.0.1:8000
+# Настройки LiveReload
+extra:
+  live_reload: true
+  reload_delay: 500  # задержка в миллисекундах
+  dirty_reload: true
+
 theme:
   name: material
   language: ru
@@ -59,6 +66,10 @@ plugins:
       enable_creation_date: true
   - macros
   - mermaid2
+  - bpmn-js:
+      viewer_js: "https://unpkg.com/bpmn-js@18/dist/bpmn-navigated-viewer.production.min.js"
+      viewer_css: "https://unpkg.com/bpmn-js@18/dist/assets/bpmn-js.css"
+      class: "mk-bpmn-js"
 
 extra:
   footer:
