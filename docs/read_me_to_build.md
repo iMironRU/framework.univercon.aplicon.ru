@@ -19,3 +19,6 @@ mkdocs serve
 
 # собираем билд mkdocs
 mkdocs build
+
+# копирование на хостинг
+rsync -avz --delete -e ssh '/Users/mal/Documents/!hugo!/framework.univercon.aplicon.ru/site/' admin@ubitek.ru:/home/admin/web/framework.aplicon.ru/public_html/

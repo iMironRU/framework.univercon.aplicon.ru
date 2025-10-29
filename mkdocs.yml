@@ -47,6 +47,7 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/mermaid.css
 
 plugins:  
   - search
@@ -57,6 +58,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - macros
+  - mermaid2
 
 extra:
   footer:
@@ -126,8 +128,9 @@ nav:
     - О фреймворке: about-framework/index.md
     - Техническое описание: about/technical.md
     - API документация: about/api.md
-    - API Отправка документов на подпись в Госключ: about/api/ExtAPI/GosKeyAPI/index.md
+    # - API - Отправка документов на подпись в Госключ: api/ExtAPI/GosKeyAPI/index.md
   - Руководство пользователя:
     - Основное руководство: about/user-guide.md
     - Частые вопросы: about/faq.md
   - Глоссарий: glossary.md
+# - Инструкция по сборке: read_me_to_build.md
