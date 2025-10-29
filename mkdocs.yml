@@ -126,6 +126,7 @@ nav:
     - О фреймворке: about-framework/index.md
     - Техническое описание: about/technical.md
     - API документация: about/api.md
+    - API Отправка документов на подпись в Госключ: about/api/ExtAPI/GosKeyAPI/index.md
   - Руководство пользователя:
     - Основное руководство: about/user-guide.md
     - Частые вопросы: about/faq.md
