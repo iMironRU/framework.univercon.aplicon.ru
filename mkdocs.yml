@@ -55,6 +55,9 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/mermaid.css
+#  - stylesheets/table_exporter.css
+
+
 
 plugins:  
   - search
@@ -70,6 +73,10 @@ plugins:
       viewer_js: "https://unpkg.com/bpmn-js@18/dist/bpmn-navigated-viewer.production.min.js"
       viewer_css: "https://unpkg.com/bpmn-js@18/dist/assets/bpmn-js.css"
       class: "mk-bpmn-js"
+  - markmap
+
+
+#plugins-dirs: ['plugins']
 
 extra:
   footer:

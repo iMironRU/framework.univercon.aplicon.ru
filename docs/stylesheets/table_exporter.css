@@ -1,0 +1,13 @@
+.table-download {
+    margin: 1rem 0;
+    text-align: center;
+}
+
+.table-download .md-button {
+    margin: 0.5rem 0;
+}
+
+.table-download .md-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
