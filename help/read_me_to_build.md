@@ -17,7 +17,7 @@ pip freeze > requirements.txt
 # Запускаем mkdocs
 mkdocs serve
 
-mkdocs serve --livereload 
+mkdocs serve --livereload --dirtyreload --verbose
 
 # собираем билд mkdocs
 mkdocs build
