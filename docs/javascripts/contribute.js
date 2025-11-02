@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function initContributeSection() {
-    const baseUrl = 'https://github.com/iMironRU/my-awesome-docs';
+    const baseUrl = 'https://github.com/iMironRU/framework.univercon.aplicon.ru';
     
     // Создаем минималистичный блок
     const section = document.createElement('div');
