@@ -90,6 +90,9 @@ nav:
 - Управление: 
   - Обзор управления: management/index.md
   - Виды образования в Российской Федерации: management/TypesOfEducation.md
+  - Лицензирование образовательной деятельности:
+    - Лицензирование образовательной деятельности в РФ: management/LicensingOfEducationalActivities/index.md
+    - Соответствие ОПФ и доступных уровней образования для лицензирования: management/LicensingOfEducationalActivities/opf.md
   - Организационная структура:
     - Структура организации: management/structure.md
     - Штатное расписание: management/edu_org_staffing.md
