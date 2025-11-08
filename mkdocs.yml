@@ -89,6 +89,7 @@ nav:
 - Главная: index.md
 - Управление: 
   - Обзор управления: management/index.md
+  - Виды образования в Российской Федерации: management/TypesOfEducation.md
   - Организационная структура:
     - Структура организации: management/structure.md
     - Штатное расписание: management/edu_org_staffing.md
@@ -97,6 +98,7 @@ nav:
     - Внутренние регламенты: management/policies.md
     - Локальные акты: management/local_acts.md
   - Законодательная база: management/legislation.md
+  
 - Планирование:
   - Обзор планирования: planning/index.md
   - Учебные планы:
