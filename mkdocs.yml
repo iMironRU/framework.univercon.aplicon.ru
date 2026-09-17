@@ -51,6 +51,7 @@ extra_javascript:
   - javascripts/glossary-data.js
   - javascripts/tooltips.js
   - javascripts/contribute.js
+  - javascripts/metrika.js
 
 extra_css:
   - stylesheets/extra.css
