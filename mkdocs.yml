@@ -121,6 +121,9 @@ nav:
   - Статистика и отчеты:
     - Текущая статистика: students/statistics.md
     - Аналитические отчеты: students/analytics.md
+- Финансы и расчёты:
+  - Кто что ведёт: finance/index.md
+  - Банковские счета и квитанции: finance/bank-accounts.md
 - Учебный процесс:
   - Обзор учебного процесса: educational-process/index.md
   - Расписания:
