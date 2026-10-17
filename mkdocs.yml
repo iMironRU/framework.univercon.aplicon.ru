@@ -156,7 +156,9 @@ nav:
       - Внешние API: 
         #- Список: about/api/ExtAPI
         - API - Отправка документов на подпись в Госключ: about/api/ExtAPI/GosKeyAPI/index.md
-      - Внутренние API: about/api/IntAPI
+        - Универкон Облако: about/api/ExtAPI/univercon-cloud.md
+      - Внутренние API:
+        - Единый идентификатор вуза: about/api/IntAPI/eiv.md
   - Руководство пользователя:
     - Основное руководство: about/user-guide.md
     - Частые вопросы: about/faq.md
