@@ -105,6 +105,7 @@ nav:
   
 - Планирование:
   - Обзор планирования: planning/index.md
+  - ФГОС как данные: planning/fgos.md
   - Учебные планы:
     - Основные программы: planning/curriculum.md
     - Дополнительные программы: planning/additional_programs.md
